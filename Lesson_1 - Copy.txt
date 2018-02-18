@@ -1,0 +1,38 @@
+Lesson 1 ---
+1. For file compare -
+win - FC
+Mac/Linux - diff
+
+-to put comments use #
+-pwd
+-ls
+
+-can be use offline
+colourful result displayed.
+
+-History - Git is British slang refer to unpleasant person.
+Early adapted - CVS concurrent version system
+SVN - Subversion - improved CVS
+Mercurial Hg - similar to Git
+
+-commit
+-git log
+
+-git assigns id to each commit with 
+author name
+date
+message
+
+-git diff id1(old version) id2(new version)
+
+-git log --- stat
+
+-in case of multiple files if only one file changed but git will assign new version to all.
+-To stop viewing git log output, press q (which stands for quit)
+-To get colored diff output, run -Octopus is a strategy Git uses to combine many different versions of code together.
+
+-git checkout
+
+-git config --global core.editor "'C:/Program\ Files/Sublime\ Text\ 3/sublime_text.exe' -n -w"
+
+
